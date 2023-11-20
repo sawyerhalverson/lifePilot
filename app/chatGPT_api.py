@@ -1,1 +1,1 @@
-#this is the file for the chatGPT API
+#this is the file for the chatGPT API.
