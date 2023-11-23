@@ -28,7 +28,7 @@ def send_sms_via_email(number:str,
 
 def main():
     number = phoneNumber
-    message = "Hi bro"
+    message = "Hi bro."
     provider = "AT&T"
     sender_credentials = (personalEmail,appPassword)
 
